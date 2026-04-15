@@ -47,19 +47,6 @@ El modelo fue construido con una lógica de dimensiones y hechos:
 - Carpeta `img/`: capturas de los dashboards y del modelo de datos
 - Carpeta `data/`: archivos de datos utilizados
 
-## Capturas
-### Dashboard ejecutivo
-![Dashboard ejecutivo](img/dashboard-ejecutivo.png)
-
-### Dashboard de ventas
-![Dashboard ventas](img/dashboard-ventas.png)
-
-### Dashboard de inventario
-![Dashboard inventario](img/dashboard-inventario.png)
-
-### Modelo de datos
-![Modelo de datos](img/modelo-datos.png)
-
 ## Autor
 **Ignacio Pizarro Hurtado**  
 Ingeniero Civil Industrial | Análisis de datos, BI y control de gestión | Power BI, Excel, Python y SQL
